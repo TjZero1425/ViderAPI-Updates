@@ -1,1 +1,1 @@
-170223-2 https://github.com/TjZero1425/ViderAPI-Updates/raw/main/ViderAPI.dll false 170223-2_H dll
+170223-2 https://raw.githubusercontent.com/TjZero1425/ViderAPI-Updates/main/ViderAPI.dll false 170223-2_H dll
